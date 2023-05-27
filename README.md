@@ -1,2 +1,2 @@
 # web-game
-this is ping pong game with the basic html,css and js language 
+In this repositories there will be some games that are build using the basic html,css and js. 
